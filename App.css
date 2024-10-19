@@ -1,0 +1,18 @@
+.back{
+  background-color: antiquewhite;
+  height:750px;
+  background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/07/Weather-Photo-Free-Download.jpg);
+}
+.h1{
+  font-style: oblique;
+  color: aliceblue;
+}
+.foot{
+  color:aliceblue;
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+}
+a{
+  color:beige;
+}
